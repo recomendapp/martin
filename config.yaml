@@ -1,0 +1,29 @@
+# Publish MBTiles files
+# mbtiles:
+#   paths:
+#     # scan this whole dir, matching all *.mbtiles files
+#     - /config/tiles/mbtiles
+  # sources:
+  #   # named source matching source name to a single file
+  #   mb-src1: /config/tiles/maptiler-cadastre.mbtiles
+# Publish PMTiles files
+pmtiles:
+  paths:
+    # scan this whole dir, matching all *.pmtiles files
+    - /config/tiles/pmtiles
+  # sources:
+  #   # named source matching source name to a single file
+  #   pm-src1: /config/tiles/maptiler-cadastre.pmtiles
+# Sprite configuration
+sprites:
+  # paths:
+  #   # all SVG files in this dir will be published as a "my_images" sprite source
+  #   - /config/sprites
+  sources:
+    # SVG images in this directory will be published as a "my_sprites" sprite source
+    paradise-pictures: /config/sprites
+# # Font configuration
+# fonts:
+#   # A list of *.otf, *.ttf, and *.ttc font files and dirs to search recursively.
+#   - ./fonts/arial.ttf
+

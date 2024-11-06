@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 60.8">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #261923;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5 {
+        stroke: #e8629f;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3, .cls-5 {
+        stroke-width: 1.21px;
+      }
+
+      .cls-6 {
+        fill: #e8629f;
+      }
+
+      .cls-7 {
+        fill: #fcbe1b;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        stroke-width: 1.03px;
+      }
+
+      .cls-4, .cls-5 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <rect class="cls-7" y="21.75" width="70" height="39.05"/>
+      <rect class="cls-6" y="4.76" width="70" height="16.99"/>
+      <rect class="cls-2" x="28.52" y="42.58" width="12.94" height="18.22"/>
+      <polyline class="cls-5" points="25.21 60.8 25.21 43.74 35 33.95 44.79 43.74 44.79 60.8"/>
+      <g>
+        <polygon class="cls-3" points="59.44 24.37 54.27 24.37 49.1 24.37 49.1 32.17 54.27 32.17 59.44 32.17 64.62 32.17 64.62 24.37 59.44 24.37"/>
+        <rect class="cls-1" x="32.42" y="24.37" width="5.17" height="7.82"/>
+        <polygon class="cls-3" points="15.73 24.37 10.55 24.37 5.38 24.37 5.38 32.17 10.55 32.17 15.73 32.17 20.9 32.17 20.9 24.37 15.73 24.37"/>
+        <polygon class="cls-3" points="59.44 45.31 54.27 45.31 49.1 45.31 49.1 53.13 54.27 53.13 59.44 53.13 64.62 53.13 64.62 45.31 59.44 45.31"/>
+        <polygon class="cls-3" points="15.73 45.31 10.55 45.31 5.38 45.31 5.38 53.13 10.55 53.13 15.73 53.13 20.9 53.13 20.9 45.31 15.73 45.31"/>
+      </g>
+      <rect class="cls-7" x="54.27" y="2.29" width="5.19" height="13.1"/>
+      <rect class="cls-6" x="53.51" width="6.69" height="2.29"/>
+      <polyline class="cls-4" points="28.52 60.8 28.52 42.58 41.48 42.58 41.48 60.8"/>
+      <circle class="cls-7" cx="35" cy="48.61" r=".6"/>
+    </g>
+  </g>
+</svg>

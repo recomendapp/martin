@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75.31 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e8629f;
+      }
+
+      .cls-2 {
+        fill: #261923;
+      }
+
+      .cls-3 {
+        fill: #fcbe1b;
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #e6629f;
+        stroke-miterlimit: 10;
+        stroke-width: 1.94px;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <polygon class="cls-3" points="68.06 290.69 55.26 278.83 55.26 34.9 32.23 34.9 32.23 91.25 18.15 120.68 18.15 278.83 7.25 290.69 68.06 290.69"/>
+      <g>
+        <rect class="cls-2" x="40.72" y="42.77" width="9.58" height="237.84"/>
+        <path class="cls-1" d="m50.1,42.93v237.49h-9.23V42.93h9.23m.35-.35h-9.93v238.19h9.93V42.58h0Z"/>
+      </g>
+      <g>
+        <rect class="cls-2" x="25.98" y="248.77" width="12.29" height="3.02"/>
+        <path class="cls-1" d="m38.12,248.97v2.64h-11.94v-2.64h11.94m.35-.39h-12.64v3.37h12.64v-3.37h0Z"/>
+      </g>
+      <g>
+        <rect class="cls-2" x="25.98" y="254.51" width="12.29" height="3.02"/>
+        <path class="cls-1" d="m38.12,254.71v2.64h-11.94v-2.64h11.94m.35-.35h-12.64v3.37h12.64v-3.37h0Z"/>
+      </g>
+      <g>
+        <rect class="cls-2" x="25.98" y="260.29" width="12.29" height="3.02"/>
+        <path class="cls-1" d="m38.12,260.48v2.64h-11.94v-2.64h11.94m.35-.35h-12.64v3.37h12.64v-3.37h0Z"/>
+      </g>
+      <g>
+        <rect class="cls-2" x="25.98" y="266.07" width="12.29" height="3.02"/>
+        <path class="cls-1" d="m38.12,266.22v2.64h-11.94v-2.64h11.94m.35-.35h-12.64v3.37h12.64v-3.37h0Z"/>
+      </g>
+      <g>
+        <rect class="cls-2" x="25.98" y="271.81" width="12.29" height="3.02"/>
+        <path class="cls-1" d="m38.12,272v2.64h-11.94v-2.64h11.94m.35-.35h-12.64v3.37h12.64v-3.37h0Z"/>
+      </g>
+      <g>
+        <rect class="cls-2" x="25.98" y="277.59" width="12.29" height="3.02"/>
+        <path class="cls-1" d="m38.12,277.74v2.64h-11.94v-2.64h11.94m.35-.35h-12.64v3.37h12.64v-3.37h0Z"/>
+      </g>
+      <g>
+        <polygon class="cls-2" points="25.98 232.83 26.41 136.19 37.46 112.46 37.46 243.85 25.98 232.83"/>
+        <path class="cls-1" d="m37.31,113.24v130.18l-11.13-10.66.39-96.52,10.74-23m.35-1.59l-11.44,24.51-.39,96.76,11.83,11.36V111.65h0Z"/>
+      </g>
+      <rect class="cls-1" x="7.25" y="290.69" width="60.85" height="4.65"/>
+      <rect class="cls-1" y="295.35" width="75.31" height="4.65"/>
+      <line class="cls-4" x1="38.62" y1="34.9" x2="38.62"/>
+      <line class="cls-4" x1="43.01" y1="34.9" x2="43.01" y2="11.05"/>
+      <polygon class="cls-1" points="32.23 91.25 32.23 101.45 18.15 129.91 18.15 120.68 32.23 91.25"/>
+    </g>
+  </g>
+</svg>

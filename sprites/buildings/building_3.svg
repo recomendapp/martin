@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42.41 118.18">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #e8629f;
+      }
+
+      .cls-3 {
+        fill: #fcbe1b;
+      }
+
+      .cls-4 {
+        stroke-width: .48px;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #261923;
+        stroke: #e8629f;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        stroke-width: .37px;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <rect class="cls-3" x="1.32" y="5.07" width="39.77" height="112.93"/>
+      <rect class="cls-4" x="4.95" y="98.13" width="17.9" height="9.93"/>
+      <rect class="cls-5" x="26.8" y="98.13" width="10.65" height="19.87"/>
+      <rect class="cls-3" x="5.62" width="11.61" height="5.07"/>
+      <g>
+        <rect class="cls-1" y="87.15" width="42.41" height="6.82"/>
+        <rect class="cls-1" y="61.14" width="42.41" height="6.82"/>
+        <rect class="cls-1" y="35.13" width="42.41" height="6.82"/>
+        <polygon class="cls-2" points="0 4.11 0 9.12 0 9.69 0 15.94 42.41 15.94 42.41 9.69 42.41 9.12 42.41 4.11 0 4.11"/>
+      </g>
+      <g>
+        <rect class="cls-4" x="5.62" y="21.11" width="8.07" height="8.85"/>
+        <rect class="cls-4" x="17.16" y="21.11" width="8.07" height="8.85"/>
+        <rect class="cls-4" x="28.72" y="21.11" width="8.07" height="8.85"/>
+        <rect class="cls-4" x="5.62" y="47.12" width="8.07" height="8.85"/>
+        <rect class="cls-4" x="17.16" y="47.12" width="8.07" height="8.85"/>
+        <rect class="cls-4" x="28.72" y="47.12" width="8.07" height="8.85"/>
+        <rect class="cls-4" x="5.62" y="73.13" width="8.07" height="8.85"/>
+        <rect class="cls-4" x="17.16" y="73.13" width="8.07" height="8.85"/>
+        <rect class="cls-4" x="28.72" y="73.13" width="8.07" height="8.85"/>
+      </g>
+    </g>
+  </g>
+</svg>

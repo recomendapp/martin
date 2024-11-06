@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90.02 42.87">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #e8629f;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fcbe1b;
+      }
+
+      .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke: #e8629f;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-8 {
+        stroke-width: 1.26px;
+      }
+
+      .cls-6, .cls-7 {
+        stroke-width: .9px;
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        fill: #261923;
+      }
+
+      .cls-7, .cls-8, .cls-9, .cls-2, .cls-4 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <rect class="cls-3" x="3.23" y="14.01" width="86.34" height="25.21"/>
+      <polygon class="cls-2" points="70.25 3.15 11.01 3.15 0 14.01 70.25 14.01 70.25 3.15"/>
+      <g>
+        <g>
+          <path class="cls-9" d="m42.7,15.66h0c-3.74,0-6.75.32-6.75,4.06v19.5h13.49v-19.5c0-3.72-3.02-4.06-6.73-4.06h0Z"/>
+          <path class="cls-5" d="m35.95,39.22v-18.98c0-3.74,3.02-4.56,6.75-4.56h0c3.74,0,6.75.84,6.75,4.56v18.98"/>
+        </g>
+        <circle class="cls-3" cx="42.7" cy="26.53" r=".63"/>
+      </g>
+      <polygon class="cls-8" points="76.39 15.66 71 15.66 65.61 15.66 65.61 31.23 71 31.23 76.39 31.23 81.79 31.23 81.79 15.66 76.39 15.66"/>
+      <line class="cls-5" x1="73.7" y1="15.66" x2="73.7" y2="31.23"/>
+      <rect class="cls-1" x="3.23" y="39.22" width="86.77" height="3.65"/>
+      <g>
+        <rect class="cls-1" x="3.23" y="33.66" width="2.15" height="5.57"/>
+        <rect class="cls-1" x="3.84" y="14.01" width=".95" height="19.64"/>
+      </g>
+      <g>
+        <rect class="cls-1" x="32.16" y="33.66" width="2.15" height="5.57"/>
+        <rect class="cls-1" x="32.77" y="14.01" width=".95" height="19.64"/>
+      </g>
+      <g>
+        <polygon class="cls-4" points="54.97 13.56 72.26 .56 89.57 13.56 89.57 39.22 54.97 39.22 54.97 13.56"/>
+        <polyline class="cls-6" points="54.97 39.22 54.97 13.56 72.26 .56 89.57 13.56 89.57 39.22"/>
+      </g>
+      <g>
+        <polygon class="cls-7" points="75.15 17.12 69.39 17.12 63.6 17.12 63.6 29.18 69.39 29.18 75.15 29.18 80.93 29.18 80.93 17.12 75.15 17.12"/>
+        <line class="cls-6" x1="72.26" y1="17.12" x2="72.26" y2="29.18"/>
+        <line class="cls-6" x1="80.93" y1="23.15" x2="63.6" y2="23.15"/>
+      </g>
+      <g>
+        <polygon class="cls-7" points="22.03 17.12 16.25 17.12 10.47 17.12 10.47 29.18 16.25 29.18 22.03 29.18 27.82 29.18 27.82 17.12 22.03 17.12"/>
+        <line class="cls-6" x1="19.14" y1="17.12" x2="19.14" y2="29.18"/>
+        <line class="cls-6" x1="27.82" y1="23.15" x2="10.47" y2="23.15"/>
+      </g>
+    </g>
+  </g>
+</svg>
