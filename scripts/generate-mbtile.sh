@@ -10,7 +10,7 @@ DIRECTORY_CONTAINING_GEOJSONS="./geojson"
 LIST_OF_GEOJSON_FILES=($(find "$DIRECTORY_CONTAINING_GEOJSONS" -type f \( -iname "*.json" -o -iname "*.geojson" \)))
 
 # Répertoire de sortie pour le fichier MBTiles combiné
-OUTPUT_DIRECTORY="./tiles"
+OUTPUT_DIRECTORY="./tiles/mbtiles"
 
 # Création du répertoire de sortie si nécessaire
 mkdir -p "$OUTPUT_DIRECTORY"
@@ -28,3 +28,9 @@ done
 # Exécution de la commande
 echo "Génération du fichier MBTiles combiné avec plusieurs couches..."
 "${TIPPECANOE_COMMAND[@]}"
+
+echo "Fichier MBTiles combiné créé: $OUTPUT_FILE"
+echo "Convert to PMTiles..."
+# Convert to PMTiles
+OUTPUT_DIRECTORY_PMTILES="./tiles/pmtiles"
+pmtiles convert "$OUTPUT_FILE" "$OUTPUT_DIRECTORY_PMTILES/paradise_pictures.pmtiles"
