@@ -78,7 +78,7 @@
 { "type": "Feature", "properties": { "id": null, "Type": "bombe" }, "geometry": { "type": "Point", "coordinates": [ 1.37661964345534, 48.21988307722426 ] } },
 { "type": "Feature", "properties": { "id": null, "Type": "bar" }, "geometry": { "type": "Point", "coordinates": [ 3.448890674124853, 48.316253574194498 ] } },
 { "type": "Feature", "properties": { "id": null, "Type": "bar" }, "geometry": { "type": "Point", "coordinates": [ 2.288559732747652, 48.91353225182727 ] } },
-{ "type": "Feature", "properties": { "id": null, "Type": "werewoldf" }, "geometry": { "type": "Point", "coordinates": [ 2.364190049116617, 48.831926882468764 ] } },
+{ "type": "Feature", "properties": { "id": null, "Type": "werewolf" }, "geometry": { "type": "Point", "coordinates": [ 2.364190049116617, 48.831926882468764 ] } },
 { "type": "Feature", "properties": { "id": null, "Type": "katana" }, "geometry": { "type": "Point", "coordinates": [ 3.210022589457908, 48.348181187945741 ] } },
 { "type": "Feature", "properties": { "id": null, "Type": "pistol" }, "geometry": { "type": "Point", "coordinates": [ 2.2915313978524, 48.712747078186375 ] } },
 { "type": "Feature", "properties": { "id": null, "Type": "gift" }, "geometry": { "type": "Point", "coordinates": [ 2.639530816456076, 48.730424537495544 ] } },
