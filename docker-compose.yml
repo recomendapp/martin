@@ -1,0 +1,28 @@
+services:
+  martin:
+    image: ghcr.io/maplibre/martin:latest
+    container_name: martin
+    restart: always
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./martin/config.yaml:/config.yaml
+      - ./martin/tiles:/tiles
+      - ./martin/sprites:/sprites
+    command: ["--config", "/config.yaml"]
+
+  nginx:
+    image: nginx:latest
+    container_name: nginx
+    restart: always
+    ports:
+      - "80:80"
+    depends_on:
+      - martin
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./martin/sprites:/usr/share/nginx/html/sprites
+      - nginx_cache:/var/cache/nginx
+
+volumes:
+  nginx_cache:

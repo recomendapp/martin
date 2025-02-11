@@ -10,7 +10,7 @@
 pmtiles:
   paths:
     # scan this whole dir, matching all *.pmtiles files
-    - /config/tiles/pmtiles
+    - /tiles/pmtiles
   # sources:
   #   # named source matching source name to a single file
   #   pm-src1: /config/tiles/maptiler-cadastre.pmtiles
@@ -21,7 +21,7 @@ sprites:
   #   - /config/sprites
   sources:
     # SVG images in this directory will be published as a "my_sprites" sprite source
-    paradise-pictures: /config/sprites
+    paradise-pictures: /sprites
 # # Font configuration
 # fonts:
 #   # A list of *.otf, *.ttf, and *.ttc font files and dirs to search recursively.
